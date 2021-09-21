@@ -1,0 +1,5 @@
+click==7.1.2
+six
+boto3
+pyfiglet
+pyowm==3.0.0
